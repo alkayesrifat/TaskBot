@@ -1,8 +1,0 @@
-pyttsx3
-SpeechRecognition
-wikipedia
-pyjokes
-pywhatkit
-pyautogui
-requests
-beautifulsoup4
